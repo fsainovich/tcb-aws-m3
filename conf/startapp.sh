@@ -1,0 +1,1 @@
+sudo nohup python3 /opt/wikiapp/wiki.py & 
